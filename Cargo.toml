@@ -5,3 +5,4 @@ authors = ["wuyuepku <wuyue16@pku.edu.cn>"]
 edition = "2018"
 
 [dependencies]
+lazy_static = "1.2.0"
